@@ -1,0 +1,7 @@
+{
+  "name": "ts-unbound-symbol",
+  "private": true,
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.1"
+  }
+}
