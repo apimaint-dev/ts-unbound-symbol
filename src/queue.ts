@@ -12,3 +12,5 @@ export class MessageQueue {
 }
 
 // touched to exercise the incremental scan path
+
+// second touch: incremental scan proof
